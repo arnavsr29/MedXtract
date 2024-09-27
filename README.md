@@ -37,10 +37,10 @@ We are going to extract some important fields from these documents.
 </br>
 
 ## 4. Code Walkthrough
-- Notebook 1: [Prescription_parser]
-- Notebook 2: [Patient_details_parser]
-- Backend: [Source code directory]
-- Frontend: [Streamlit app]
+- Notebook 1: [Prescription_parser](https://github.com/arnavsr29/SCT_DS_2/blob/main/Notebooks/01_prescription_parser.ipynb)
+- Notebook 2: [Patient_details_parser](https://github.com/arnavsr29/SCT_DS_2/blob/main/Notebooks/02_patient_details_parser.ipynb)
+- Backend: [Source code directory](https://github.com/arnavsr29/SCT_DS_2/tree/main/backend_part/src)
+- Frontend: [Streamlit app](https://github.com/arnavsr29/SCT_DS_2/blob/main/frontend_part/app.py)
 
 ![6](https://github.com/user-attachments/assets/49b45913-cefc-4d4e-b46a-2ba977d332c7)
 
