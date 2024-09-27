@@ -8,7 +8,8 @@ This project focused on developing an Optical Character Recognition (OCR) system
 OCR (Optical Character Recognition) Converts scanned documents, PDFs, and images into machine-readable text.</br>
 Uses machine learning, including CNNs, to enhance text recognition, accuracy, and context comprehension, continuously learning and adapting to new domains and languages.
 
-![2](https://github.com/user-attachments/assets/d740107c-4e3c-4b77-ba92-c97d84d866d8)
+![2](https://github.com/user-attachments/assets/a0462f3c-d208-4817-a451-49fd8eef7976)
+
 </br>
 
 ## 2. Introduction to Project $ Demo using Visualization.
@@ -18,8 +19,8 @@ For this project we have two types of Medical Documents.
 
 We are going to extract some important fields from these documents.
 
-![3](https://github.com/user-attachments/assets/432645a3-05d4-42a3-8f8a-ef67eae8d620)
-![4](https://github.com/user-attachments/assets/1ba131c3-7f5b-41b3-839f-3337874e917d)
+![3](https://github.com/user-attachments/assets/e245ca95-1b66-44be-98ae-3c2d4825cc5e)
+![4](https://github.com/user-attachments/assets/51c874af-11db-41c7-8bc9-cc42d298ca24)
 
 </br>
 
@@ -30,8 +31,9 @@ We are going to extract some important fields from these documents.
 - Step 4: Finding useful information from text using `RegEx` and returning in JSON format
 - Step 5: Creating a `FastAPI backend server` which serves data extraction requests by accepting a pdf_file, file_format and returning a JSON object.
 - Step 6: To create a Demo of `frontend UI using Streamlit` and connect it with our FastAPI server using Python Requests module.
-- 
-![5](https://github.com/user-attachments/assets/b45ca52d-4d01-4301-8df5-f9ef99f74fc0)
+
+![5](https://github.com/user-attachments/assets/7d84ea38-919e-4d38-b708-69437594785c)
+
 </br>
 
 ## 4. Code Walkthrough
@@ -39,8 +41,9 @@ We are going to extract some important fields from these documents.
 - Notebook 2: [Patient_details_parser]
 - Backend: [Source code directory]
 - Frontend: [Streamlit app]
-- 
-![6](https://github.com/user-attachments/assets/4d4ee83f-4d81-4d47-9c6a-280a9a3ac17c)
+
+![6](https://github.com/user-attachments/assets/49b45913-cefc-4d4e-b46a-2ba977d332c7)
+
 </br>
 
 ## 5. What did I learn through this project?
